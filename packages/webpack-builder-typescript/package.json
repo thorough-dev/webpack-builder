@@ -1,0 +1,25 @@
+{
+  "name": "@thorough/webpack-builder-typescript",
+  "version": "0.1.0",
+  "description":
+    "Convenient webpack-builder transforms for adding TypeScript support to a Webpack project.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorough-dev/webpack-builder.git"
+  },
+  "keywords": ["typescript", "webpack", "webpack4"],
+  "author": "Zachary Jones <zachary@thorough.company>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thorough-dev/webpack-builder/issues"
+  },
+  "homepage": "https://github.com/thorough-dev/webpack-builder#readme",
+  "dependencies": {
+    "@thorough/webpack-builder": "0.1.0",
+    "ts-loader": "^4.3.0"
+  }
+}

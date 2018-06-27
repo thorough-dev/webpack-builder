@@ -1,0 +1,6 @@
+{
+  "extends": ["@thorough/dev-configs/tslint/base"],
+  "rules": {
+    "no-submodule-imports": [true, "@thorough"]
+  }
+}

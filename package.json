@@ -1,0 +1,32 @@
+{
+  "version": "0.1.0",
+  "description": "An RxJS-inspired imperative builder for Webpack configurations.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorough-dev/webpack-builder.git"
+  },
+  "keywords": [
+    "typescript",
+    "webpack",
+    "webpack4"
+  ],
+  "private": true,
+  "author": "Zachary Jones <zachary@thorough.company>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thorough-dev/webpack-builder/issues"
+  },
+  "homepage": "https://github.com/thorough-dev/webpack-builder#readme",
+  "devDependencies": {
+    "@thorough/dev-configs": "^0.1.1",
+    "lerna": "^2.10.1",
+    "prettier": "^1.12.1",
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {}
+}
